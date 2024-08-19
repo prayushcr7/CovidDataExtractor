@@ -20,8 +20,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/covid19-image-generator.git
-cd covid19-image-generator
+git clone https://github.com/yourusername/covid19-image-generator.git](https://github.com/prayushcr7/CovidDataExtractor
 
 Install the required libraries:
 
@@ -72,4 +71,4 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Contact
 
-For any questions or suggestions, please open an issue or reach out to your_email@example.com.
+For any questions or suggestions, please open an issue or reach out to prayushshrestha89@gmail.com
